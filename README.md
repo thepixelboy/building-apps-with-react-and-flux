@@ -10,3 +10,11 @@ If you want to view the Cory's version of the app, follow the white rabbit to [h
 
 For an updated version that uses the latest versions of all dependencies, [go here](https://github.com/coryhouse/react-flux-building-applications/pull/1).
 
+## To get this demo running
+
+1. Install [NodeJS](http://www.nodejs.org)  
+2. Open the command line of your choice and cd to the root directory of this repo on your machine  
+3. `npm install` - Installs packages
+4. `npm install -g gulp` - Installs gulp globally. [Why globally?](http://stackoverflow.com/questions/22115400/why-do-we-need-to-install-gulp-globally-and-locally)
+5. `gulp` - Builds the project and opens your browser. Check [here if you have issues](https://github.com/coryhouse/react-flux-starter-kit#having-issues-try-this).
+6. Navigate to [http://localhost:9005/](http://localhost:9005/) if your browser doesn't open automatically.
